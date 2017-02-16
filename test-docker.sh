@@ -10,7 +10,7 @@ else
     SERVER=''
 fi
 
-URL=http://127.0.0.1:$PORT/
+URL=http://127.0.0.1:$PORT/phpmyadmin/
 
 # Wait for container to start
 ret=0
